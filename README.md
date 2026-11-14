@@ -1,4 +1,4 @@
-# RouteOptima
+# 🚚 RouteOptima
 
 RouteOptima is a commercial transport intelligence dashboard for optimizing freight movement across Kenya’s key logistics corridors. It simulates traffic conditions, fuel cost impact, rest-stop policy effects, and route-time improvements using a fleet dispatch model tailored to Kenyan highways.
 
@@ -6,7 +6,7 @@ RouteOptima is a commercial transport intelligence dashboard for optimizing frei
   <img src="./routeoptima-banner.png" alt="RouteOptima banner" width="1100" />
 </p>
 
-## Overview
+## 🧭 Overview
 
 This project models how route planning decisions affect:
 
@@ -18,18 +18,18 @@ This project models how route planning decisions affect:
 
 It is designed as a modern interactive dashboard for fleet operators, logistics coordinators, and route planners who need fast decision support in a road-transport environment.
 
-## Key Features
+## ✨ Key Features
 
-- Interactive GIS-style corridor map with geospatial checkpoints
-- Commercial fleet dispatch simulator
-- Real-time traffic and congestion scenario controls
-- AI reroute impact analysis
-- Route ETA and fuel-cost estimation
-- NTSA driver rest-break scheduling logic
-- corridor comparison across major Kenyan freight routes
-- PDF-style dispatch manifest generator for route operations
+- 🗺️ Interactive GIS-style corridor map with geospatial checkpoints
+- 🚛 Commercial fleet dispatch simulator
+- 🚦 Traffic and congestion scenario controls
+- 🤖 AI reroute impact analysis
+- ⏱️ Route ETA and fuel-cost estimation
+- ☕ NTSA driver rest-break scheduling logic
+- 🇰🇪 Comparison of major Kenyan freight corridors
+- 📄 Dispatch manifest generator for route operations
 
-## Supported Corridors
+## 🛣️ Supported Corridors
 
 The app includes several representative Kenyan logistics corridors, including:
 
@@ -39,7 +39,7 @@ The app includes several representative Kenyan logistics corridors, including:
 - Nairobi – Nakuru – Kisumu logistics route
 - Thika industrial corridor and other urban freight loops
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - React 19
 - TypeScript
@@ -48,7 +48,7 @@ The app includes several representative Kenyan logistics corridors, including:
 - Lucide React
 - CSS Modules / custom styling
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -58,8 +58,8 @@ The app includes several representative Kenyan logistics corridors, including:
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/routeoptima.git
-cd routeoptima
+git clone https://github.com/Avire123/routeoptima-dashboard.git
+cd routeoptima-dashboard
 npm install
 ```
 
@@ -81,7 +81,7 @@ http://localhost:5173
 npm run build
 ```
 
-## Scripts
+## 📜 Scripts
 
 ```bash
 npm run dev     # start the app in development mode
@@ -90,7 +90,7 @@ npm run preview # preview the production build locally
 npm run lint    # run the configured linter
 ```
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```text
 routeoptima/
@@ -118,7 +118,7 @@ routeoptima/
 └── routeoptima-banner.png
 ```
 
-## Use Cases
+## 🎯 Use Cases
 
 This dashboard is well suited for:
 
@@ -128,7 +128,7 @@ This dashboard is well suited for:
 - fuel and delivery time optimization,
 - and corridor bottleneck visibility for freight stakeholders.
 
-## Roadmap
+## 🧱 Roadmap
 
 Planned improvements include:
 
@@ -138,10 +138,10 @@ Planned improvements include:
 - real vehicle dispatch simulation,
 - multi-region support beyond Kenya.
 
-## License
+## 📄 License
 
 This project is currently unlicensed and is intended for demo and portfolio use unless otherwise specified.
 
-## Notes
+## ℹ️ Notes
 
 This is a frontend prototype and operational dashboard concept. It is not connected to a live logistics backend or production traffic API yet, but it provides a strong foundation for building a broader transportation intelligence platform.
